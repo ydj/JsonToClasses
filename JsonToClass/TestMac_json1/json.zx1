@@ -1,0 +1,19 @@
+//
+//  
+//  AutomaticCoder
+//
+
+//
+
+
+#import <Foundation/Foundation.h>
+#import#
+
+@interface #name# : NSObject<NSCoding>
+
+#property# 
+
+
+-(id)initWithJson:(NSDictionary *)json;
+
+@end
